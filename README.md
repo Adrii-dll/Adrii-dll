@@ -43,6 +43,7 @@
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
 
 **Current Certifications**
+
 <a href="https://www.credly.com/badges/ef4d18ca-6a4a-4973-b2b5-88b891ca0283/public_url">
   <img align="left" alt="Fortinet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/fortinet.svg" />
 </a>
