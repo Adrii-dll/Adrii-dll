@@ -35,7 +35,7 @@
 
 <code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/python-color.svg"></code>
 <code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/kalilinux-color.svg"></code>
-<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/metasploit.svg"></code>
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/metasploit-color.svg"></code>
 <code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/wireshark-color.svg"></code>
 <code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/mysql-color.svg"></code>
 <code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/vscode-color.svg"></code>
