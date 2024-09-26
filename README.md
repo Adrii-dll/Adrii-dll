@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Adrián.
 
 <a href="https://app.hackthebox.com/profile/1910348">
-  <img align="left" alt="HackTheBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
+  <img align="left" alt="HackTheBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/hackthebox.svg" />
 </a>
 <a href="https://github.com/Adrii-dll">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -33,14 +33,14 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/kalilinux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/metasploit.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/wireshark.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/mysql.svg"></code>
-<code><img height="20" src="https://www.svgrepo.com/show/342347/visual-studio-code.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/kalilinux.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/metasploit.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/wireshark.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/mysql.svg"></code>
+<code><img height="25" src="https://www.svgrepo.com/show/342347/visual-studio-code.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
 
 **Technology being learned**
