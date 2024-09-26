@@ -42,6 +42,9 @@
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 <img align="right" width="400" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/badges/htb.png" alt="ADRll" />
 
+**My HTB Profile**
+<img align="left" href="https://app.hackthebox.com/profile/1910348" width="400" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/badges/htb.png" alt="ADRll" />
+
 **Current Certifications**
 
 <a>Getting Started in Cybersecurity 2.0 Self-Paced</a>
