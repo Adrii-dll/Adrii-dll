@@ -78,6 +78,8 @@
 </a>
 
 
+**Favorite sites**
+
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
 <code><img height="20" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/google-color.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
