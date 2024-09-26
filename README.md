@@ -40,7 +40,7 @@
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/mysql.svg"></code>
 <code><img height="25" src="https://www.svgrepo.com/show/342347/visual-studio-code.svg"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<img align="right"  src="https://github.com/Adrii-dll/Adrii-dll/blob/main/badges/htb.png" alt="ADRll" />
+<img align="right" width="400" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/badges/htb.png" alt="ADRll" />
 
 **Current Certifications**
 
