@@ -49,6 +49,26 @@
   <img align="left" alt="Fortinet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/fortinet.svg" />
 </a>
 
+<a>Introduction to the Threat Landscape 2.0</a>
+<a href="https://www.credly.com/badges/fc8acd25-04c1-4ffa-8418-4d8f2f11671a/public_url">
+  <img align="left" alt="Fortinet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/fortinet.svg" />
+</a>
+
+<a>Fortinet Certified Fundamentals Cybersecurity</a>
+<a href="https://www.credly.com/badges/df5d3e7a-d524-4188-a083-3b8f7d62583c/public_url">
+  <img align="left" alt="Fortinet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/fortinet.svg" />
+</a>
+
+<a>Technical Introduction to Cybersecurity 1.0</a>
+<a href="https://www.credly.com/badges/7ece0617-6dc6-46cf-9e03-ac43c8ced640/public_url">
+  <img align="left" alt="Fortinet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/fortinet.svg" />
+</a>
+
+<a>HTB CDSA (COMING SOON 🚧)</a>
+<a href="">
+  <img align="left" alt="Fortinet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/hackthebox.svg" />
+</a>
+
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
