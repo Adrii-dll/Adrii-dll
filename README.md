@@ -54,7 +54,7 @@
 
 <a>Getting Started in Cybersecurity 2.0 Self-Paced</a>
 <a href="https://www.credly.com/badges/ef4d18ca-6a4a-4973-b2b5-88b891ca0283/public_url">
-  <img align="left" alt="Fortinet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/fortinet.svg" />
+  <img align="left" alt="Fortinet" width="22px" src="data:image/svg+xml,%3Csvg%20fill%3D%22%23EE3124%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EFortinet%3C%2Ftitle%3E%3Cpath%20d%3D%22M0%209.785h6.788v4.454H0zm8.666-6.33h6.668v4.453H8.666zm0%2012.637h6.668v4.454H8.666zm8.522-6.307H24v4.454h-6.812zM2.792%203.455C1.372%203.814.265%205.404%200%207.425v.506h6.788V3.454zM0%2016.091v.554c.24%201.926%201.276%203.466%202.624%203.9h4.188v-4.454zm24-8.184v-.506c-.265-1.998-1.372-3.587-2.792-3.972h-4.02v4.454H24zM21.376%2020.57c1.324-.458%202.36-1.974%202.624-3.9v-.554h-6.812v4.454Z%22%2F%3E%3C%2Fsvg%3E" />
 </a>
 
 <a>Introduction to the Threat Landscape 2.0</a>
