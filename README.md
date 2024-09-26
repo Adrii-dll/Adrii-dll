@@ -1,13 +1,13 @@
 ### Hey 👋, I'm Adrián.
 
 <a href="https://app.hackthebox.com/profile/1910348">
-  <img align="left" alt="HackTheBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/hackthebox.svg" />
+  <img align="left" alt="HackTheBox" width="22px" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/hackthebox-color.svg" />
 </a>
 <a href="https://github.com/Adrii-dll">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="mailto:adrife2002@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/gmail-color.svg" />
 </a>
 
 <br />
@@ -33,12 +33,12 @@
 
 **Languages and Tools:**  
 
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/kalilinux.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/metasploit.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/wireshark.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/mysql.svg"></code>
-<code><img height="25" src="https://www.svgrepo.com/show/342347/visual-studio-code.svg"></code>
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/python-color.svg"></code>
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/kalilinux-color.svg"></code>
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/metasploit.svg"></code>
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/wireshark-color.svg"></code>
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/mysql-color.svg"></code>
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/vscode-color.svg"></code>
 
 **My HTB Profile**
 
@@ -59,22 +59,22 @@
 
 <a>Introduction to the Threat Landscape 2.0</a>
 <a href="https://www.credly.com/badges/fc8acd25-04c1-4ffa-8418-4d8f2f11671a/public_url">
-  <img align="left" alt="Fortinet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/fortinet.svg" />
+  <img align="left" alt="Fortinet" width="22px" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/fortinet-color.svg" />
 </a>
 
 <a>Fortinet Certified Fundamentals Cybersecurity</a>
 <a href="https://www.credly.com/badges/df5d3e7a-d524-4188-a083-3b8f7d62583c/public_url">
-  <img align="left" alt="Fortinet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/fortinet.svg" />
+  <img align="left" alt="Fortinet" width="22px" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/fortinet-color.svg" />
 </a>
 
 <a>Technical Introduction to Cybersecurity 1.0</a>
 <a href="https://www.credly.com/badges/7ece0617-6dc6-46cf-9e03-ac43c8ced640/public_url">
-  <img align="left" alt="Fortinet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/fortinet.svg" />
+  <img align="left" alt="Fortinet" width="22px" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/fortinet-color.svg" />
 </a>
 
 <a>HTB CDSA (COMING SOON 🚧)</a>
 <a href="">
-  <img align="left" alt="Fortinet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/hackthebox.svg" />
+  <img align="left" alt="Fortinet" width="22px" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/hackthebox-color.svg" />
 </a>
 
 
