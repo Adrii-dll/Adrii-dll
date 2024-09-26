@@ -33,12 +33,12 @@
 
 **Languages and Tools:**  
 
-<img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/python-color.svg">
-<img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/kalilinux-color.svg">
-<img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/metasploit.svg">
-<img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/wireshark-color.svg">
-<img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/mysql-color.svg">
-<img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/vscode-color.svg">
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/python-color.svg"></code>
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/kalilinux-color.svg"></code>
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/metasploit.svg"></code>
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/wireshark-color.svg"></code>
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/mysql-color.svg"></code>
+<code><img height="25" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/vscode-color.svg"></code>
 
 **My HTB Profile**
 
@@ -79,11 +79,11 @@
 
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
+<code><img height="20" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/google-color.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
+<code><img height="20" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/youtube-color.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/hackthebox.svg"></code>
+<code><img height="20" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/hackthebox-color.svg"></code>
 
 
 **If you like this readme file, please give me star! ❤️**
