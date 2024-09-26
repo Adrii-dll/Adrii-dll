@@ -1,4 +1,4 @@
-### Hey 👋, I'm Adrián.
+![image](https://github.com/user-attachments/assets/6db16587-56a8-4939-800d-db0f9a8f73f3)### Hey 👋, I'm Adrián.
 
 <a href="https://app.hackthebox.com/profile/1910348">
   <img align="left" alt="HackTheBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
@@ -37,8 +37,8 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/kalilinux.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/metasploit.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/wireshark.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/mysql.svg"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/342347/visual-studio-code.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
