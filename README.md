@@ -45,6 +45,7 @@
 
 <img align="left" href="https://app.hackthebox.com/profile/1910348" width="400" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/badges/htb.png" alt="ADRll" />
 
+<br />
 **Current Certifications**
 
 <a>Getting Started in Cybersecurity 2.0 Self-Paced</a>
