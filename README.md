@@ -54,7 +54,7 @@
 
 <a>Getting Started in Cybersecurity 2.0 Self-Paced</a>
 <a href="https://www.credly.com/badges/ef4d18ca-6a4a-4973-b2b5-88b891ca0283/public_url">
-  <img align="left" alt="Fortinet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/fortinet.svg" />
+  <img align="left" alt="Fortinet" width="22px" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/fortinet-color.svg" />
 </a>
 
 <a>Introduction to the Threat Landscape 2.0</a>
