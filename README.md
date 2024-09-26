@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6db16587-56a8-4939-800d-db0f9a8f73f3)### Hey 👋, I'm Adrián.
+### Hey 👋, I'm Adrián.
 
 <a href="https://app.hackthebox.com/profile/1910348">
   <img align="left" alt="HackTheBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
