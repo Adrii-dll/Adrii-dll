@@ -72,8 +72,8 @@
   <img align="left" alt="Fortinet" width="22px" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/fortinet-color.svg" />
 </a>
 
-<a>HTB CDSA (COMING SOON 🚧)</a>
-<a href="">
+<a>HTB CDSA (Certified Defensive Security Analyst)</a>
+<a href="https://www.credly.com/badges/19d36f6f-9e87-4d37-9e63-a72932245b7c">
   <img align="left" alt="Fortinet" width="22px" src="https://github.com/Adrii-dll/Adrii-dll/blob/main/icons/hackthebox-color.svg" />
 </a>
 
